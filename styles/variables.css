@@ -15,6 +15,6 @@
   --header-bg-img: url(../images/cover-image-dark.png);
   --page-bg-color: #000028;
   --section-title-text-color: var(--accent-color);
-  --title-and-footer-color: #DB00FF;
+  --title-color: #DB00FF;
   --title-decor-text-color: #000028;
 }
